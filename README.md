@@ -7,7 +7,7 @@ This is a code-completion exercise, where students will have to either change so
 Some key things we will need to do in this exercise:
 
 - Change the bundle identifier
-- Set up Keychain entitlment to use the revised bundle
+- Set up Keychain entitlement to use the revised bundle
 - Set up Firebase database and get plist
 - Manually enter some data _(depending on time)_
 - Install Firebase with either Cocoapods or SPM
